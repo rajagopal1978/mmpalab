@@ -1,0 +1,4600 @@
+[{
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "0.0107",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "0.0169",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "0.026",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "0.0408",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "0.1244",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL440125",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "0.21",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(-c2c3c(cc4cc5c(cc24)OCO5)C(\u003dO)OC3)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL3109309",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1.0",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCCC[C@H]1Cc2cc(O)c(C(\u003dO)O)c(O)c2[C@@H](O)O1"
+}, {
+  "compound_chembl_id": "CHEMBL1232279",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1.5",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N2CCO[C@H](OC)C2)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL442828",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2.0",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "O\u003dC1N/C\u003dC/c2cc(Br)c(c(Br)c2)Oc2cc(cc(Br)c2O)CCNC(\u003dO)/C(\u003dN/O)Cc2ccc(c(Br)c2)Oc2cc(cc(Br)c2O)C/C1\u003dN\\O"
+}, {
+  "compound_chembl_id": "CHEMBL1117",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2.6",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)[C@]1(O)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](N)[C@H](O)[C@H](C)O2)C1)C(\u003dO)c1ccccc1C3\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL417",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4.9",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL50",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "6.9",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12"
+}, {
+  "compound_chembl_id": "CHEMBL31574",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8.2",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)ccc12"
+}, {
+  "compound_chembl_id": "CHEMBL178",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(C)\u003dO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL164",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "11.9",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12"
+}, {
+  "compound_chembl_id": "CHEMBL164",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "11.9",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12"
+}, {
+  "compound_chembl_id": "CHEMBL499126",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "12.5",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "O\u003dC1c2ccc(O)cc2-c2c3c(cc4ccnc1c24)OCO3"
+}, {
+  "compound_chembl_id": "CHEMBL471281",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "25.0",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "COc1ccc2c(c1)-c1c3c(cc4ccnc(c14)C2\u003dO)OCO3"
+}, {
+  "compound_chembl_id": "CHEMBL44",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "30.0",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12"
+}, {
+  "compound_chembl_id": "CHEMBL28626",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "40.8",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12"
+}, {
+  "compound_chembl_id": "CHEMBL239156",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "43.7",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c(-c2ccc(O)cc2)coc2cc(O)c(O)cc12"
+}, {
+  "compound_chembl_id": "CHEMBL45068",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "46.1",
+  "standard_units": "ug.mL-1",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O"
+}, {
+  "compound_chembl_id": "CHEMBL346068",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "60.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "N[C@@H]1CCN(c2c(F)cc3c(\u003dO)c(C(\u003dO)O)cn4c3c2Oc2c-4ccc3c2ccc2ccccc23)C1"
+}, {
+  "compound_chembl_id": "CHEMBL2296491",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "76.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCC(\u003dO)NCCC1\u003dC(SC)C(\u003dO)c2nccc3c2c1nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL2296492",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "125.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(CCNC(\u003dO)C\u003dC(C)C)c2c3c(ccnc13)-c1ccccc1N2"
+}, {
+  "compound_chembl_id": "CHEMBL2296490",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "132.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COC1\u003dC(CCNC(C)\u003dO)c2nc3ccccc3c3ccnc(c23)C1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4463643",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cc4ccccc4o3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL2260090",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "350.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNCCCl)c(OC)c2)ccc1OC(\u003dO)CNCCCl"
+}, {
+  "compound_chembl_id": "CHEMBL164",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "390.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12"
+}, {
+  "compound_chembl_id": "CHEMBL5314360",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCN1C[C@]2(COC)[C@H](O)C[C@H](OC)[C@@]34[C@@H]5C[C@@]6(O)[C@H](OC(\u003dO)c7ccccc7)[C@@H]5[C@@](OC(C)\u003dO)([C@@H]([C@H](OC)[C@H]23)[C@@H]14)[C@@H](O)[C@@H]6OC"
+}, {
+  "compound_chembl_id": "CHEMBL2296496",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "592.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C/C\u003dC(\\C)C(\u003dO)C(CNCC\u003dO)C1\u003dCC(\u003dO)c2nccc3c2c1nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL2296497",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "592.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)\u003dCC(\u003dO)C(CNCC\u003dO)C1\u003dCC(\u003dO)c2nccc3c2c1nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL4527023",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCN1CCOCC1)Nc1ccc2c(-c3cc(F)ccc3O)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL2296494",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "639.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)(O)CC(\u003dO)C(CNCC\u003dO)C1\u003dCC(\u003dO)c2nccc3c2c1nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL5408150",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "670.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OCc2ccc(C(\u003dO)NCCN)cc2)c(Cl)c1Cl.Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL1305588",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "680.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "c1ccc2c(c1)nc(NC1CCCCC1)c1nncn12"
+}, {
+  "compound_chembl_id": "CHEMBL155344",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "N[C@H]1CCN(c2c(F)cc3c(\u003dO)c(C(\u003dO)O)cn4c3c2Oc2c-4ccc3c2ccc2ccccc23)C1"
+}, {
+  "compound_chembl_id": "CHEMBL4527023",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCN1CCOCC1)Nc1ccc2c(-c3cc(F)ccc3O)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4552030",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3ccc(C(F)(F)F)cc3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL5414329",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "730.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCc1nc2nc(Nc3ccc4nc(OCCN5CCOCC5)ccc4c3)nc(NC(C)(C)C)c2[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4288104",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "850.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc(NC(\u003dO)CSc2nnc3c4nncn4c4ccccc4n23)c1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "880.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL3759668",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCCn1c(N)c(-c2nc3ccccc3[nH]2)c2nc(C#N)c(C#N)nc21"
+}, {
+  "compound_chembl_id": "CHEMBL2424901",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "920.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCc1ccc(-c2cn(C3COC4\u003dC(Br)C(\u003dO)C(\u003dO)c5cccc3c54)nn2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4286850",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "940.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CSc1nnc2c3nncn3c3ccccc3n12)Nc1ccc(F)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL359744",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "940.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4064127",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "970.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1ccc2c(c1)Oc1c(N3CC[C@H](N)C3)c(F)cc3c(\u003dO)c(C(\u003dO)O)cn-2c13"
+}, {
+  "compound_chembl_id": "CHEMBL4636680",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "980.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1cc(C)c(S(\u003dO)(\u003dO)Nc2ccc3c(\u003dO)cc(-c4ccccc4)oc3c2)c(C)c1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "990.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL4061116",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cl.Cl.NCCCNCC(O)COc1cc(O)c2c(\u003dO)c3ccccc3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL5421247",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OCc2cccc(C(\u003dO)NCCN)c2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL4463643",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cc4ccccc4o3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4291398",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1060.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Sc1nnc2c3nncn3c3ccccc3n12"
+}, {
+  "compound_chembl_id": "CHEMBL2296495",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)\u003dCC(\u003dO)C(CNCC(\u003dO)O)C1\u003dCC(\u003dO)c2nccc3c2c1nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL4454056",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CN1CCOCC1)Nc1ccc2c(-c3cc4ccccc4o3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4281274",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1190.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(NNc1nc2ccccc2n2cnnc12)Nc1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL4457343",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(NC(C)\u003dO)c(O)c2nccc(-c3ccccc3NC(\u003dO)c3ccccc3)c12"
+}, {
+  "compound_chembl_id": "CHEMBL4291890",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1220.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(NNc1nc2ccccc2n2cnnc12)NC1CCCCC1"
+}, {
+  "compound_chembl_id": "CHEMBL4514715",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)(C)C(\u003dO)Nc1ccc2c(-c3ccccc3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL5427017",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(\u003dO)NC3CCCNC3)cc2OC(C)C)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL340160",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1376.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1c2cccnc2-c2nccc3c2c1nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL4084089",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccccc1CNCCCN1C(\u003dO)c2ccc3c4c(ccc(c24)C1\u003dO)C(\u003dO)N(CCCNCCCN)C3\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL1812144",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1540.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dCCC1\u003dCOC2\u003dC(Cl)C(\u003dO)C(\u003dO)c3cccc1c32"
+}, {
+  "compound_chembl_id": "CHEMBL5281995",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN1CCN(c2cc3c(cc2F)C(\u003dO)C(/C\u003dC2\\CN(C4CC4)c4cc(N5CCNCC5)c(F)cc4C2\u003dO)CN3C2CC2)CC1"
+}, {
+  "compound_chembl_id": "CHEMBL571444",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)(C)Nc1nc(Nc2ccc3ncsc3c2)nc2[nH]cnc12"
+}, {
+  "compound_chembl_id": "CHEMBL4584155",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3ccoc3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4642846",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1770.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(S(\u003dO)(\u003dO)Nc2ccc3c(\u003dO)cc(-c4ccccc4)oc3c2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL1812139",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1880.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC1COC2\u003dCC(\u003dO)C(\u003dO)c3cccc1c32"
+}, {
+  "compound_chembl_id": "CHEMBL4462930",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc(-c2ccnc3c(O)c(NC(C)\u003dO)ccc23)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4282332",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1910.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Clc1ccccc1/C\u003dN/Nc1nc2ccccc2n2cnnc12"
+}, {
+  "compound_chembl_id": "CHEMBL4280810",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1940.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCNc1nc2ccccc2n2cnnc12"
+}, {
+  "compound_chembl_id": "CHEMBL4065223",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1950.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1ccc2c(c1)Oc1c(N3CCC(N4CCCCC4)CC3)c(F)cc3c(\u003dO)c(C(\u003dO)O)cn-2c13"
+}, {
+  "compound_chembl_id": "CHEMBL4064887",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1950.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1ccc2c(c1)Oc1c(N3CCNCC3)c(F)cc3c(\u003dO)c(C(\u003dO)O)cn-2c13"
+}, {
+  "compound_chembl_id": "CHEMBL4076393",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1950.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N[C@H]1CCN(c2c(F)cc3c(\u003dO)c(C(\u003dO)O)cn4c3c2Oc2cc([N+](\u003dO)[O-])ccc2-4)C1"
+}, {
+  "compound_chembl_id": "CHEMBL4854181",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "1950.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2nc3c(OCc4ccccc4)cc(C(\u003dO)O)cc3s2)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL5083245",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C[C@H]([C@H](C)N1CCNC(\u003dO)C1)N1CC(\u003dO)NC(\u003dO)C1"
+}, {
+  "compound_chembl_id": "CHEMBL4758733",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)c1ccc(Nc2nc(-c3ccncc3)nc3c2CC(N)CC3)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4462930",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc(-c2ccnc3c(O)c(NC(C)\u003dO)ccc23)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL2443287",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cl.N\u003dc1c2c(\u003dS)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2nc(NCCc2ccc(Cl)cc2)n1-c1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL2443298",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N\u003dc1c2c(\u003dS)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2nc(NCCc2ccc(Cl)cc2)n1-c1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL4758733",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)c1ccc(Nc2nc(-c3ccncc3)nc3c2CC(N)CC3)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL73133",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2090.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CNc1nc2ccccc2n2cnnc12"
+}, {
+  "compound_chembl_id": "CHEMBL4583627",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(/C\u003dC/c1ccc(O)cc1)c1ccc2c(c1O)[C@H](C(\u003dO)c1ccc(O)cc1O)[C@@H](c1ccc(O)cc1)O2"
+}, {
+  "compound_chembl_id": "CHEMBL2259873",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCNC34CC5CC(CC(C5)C3)C4)c(OCC)c2)ccc1OC(\u003dO)CCNC12CC3CC(CC(C3)C1)C2"
+}, {
+  "compound_chembl_id": "CHEMBL4288069",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2120.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOC(\u003dO)CSc1nnc2c3nncn3c3ccccc3n12"
+}, {
+  "compound_chembl_id": "CHEMBL4091846",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccccc1CNCCCN1C(\u003dO)c2ccc3c4c(ccc(c24)C1\u003dO)C(\u003dO)N(CCCNCCCCNCCCN)C3\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL5631460",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2260.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(N/N\u003dC/c1ccncc1)c1cccc2c(\u003dO)c3ccccc3[nH]c12"
+}, {
+  "compound_chembl_id": "CHEMBL5433775",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OCc2cccc(C(\u003dO)NCCN)c2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4564777",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cccs3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4476462",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cc(F)ccc3O)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4457343",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(NC(C)\u003dO)c(O)c2nccc(-c3ccccc3NC(\u003dO)c3ccccc3)c12"
+}, {
+  "compound_chembl_id": "CHEMBL4102765",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2430.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1cn([C@H]2C[C@H](CC3\u003dCC(\u003dO)C(\u003dO)C\u003dC3)[C@@H](CO[Si](C)(C)C(C)(C)C)O2)c(\u003dO)[nH]c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4096982",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NCCCCNCC(O)COc1cc(O)c2c(\u003dO)c3ccccc3oc2c1.O\u003dC(O)C(F)(F)F.O\u003dC(O)C(F)(F)F"
+}, {
+  "compound_chembl_id": "CHEMBL4474912",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCN1CCOCC1)Nc1ccc2c(-c3cc4ccccc4o3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL2260080",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNc3nnc(C)s3)c(OCC)c2)ccc1OC(\u003dO)CNc1nnc(C)s1"
+}, {
+  "compound_chembl_id": "CHEMBL5427519",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(\u003dO)NCCN)cc2OC(C)C)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL2260077",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCNCCCl)c(OC)c2)ccc1OC(\u003dO)CCNCCCl"
+}, {
+  "compound_chembl_id": "CHEMBL2259878",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCCC(\u003dO)Oc1ccc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCCCCC)c(OC)c2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL5425013",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(\u003dO)NCC3CCNCC3)cc2OC(C)C)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4290204",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2970.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Clc1cccc(Cl)c1/C\u003dN/Nc1nc2ccccc2n2cnnc12"
+}, {
+  "compound_chembl_id": "CHEMBL4276735",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "2980.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "S\u003dC(NNc1nc2ccccc2n2cnnc12)Nc1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL2443290",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cl.N\u003dc1c2c(\u003dS)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2nc(NCCN2CCCCC2)n1-c1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL2260076",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCNc3nnc(C)s3)c(OC)c2)ccc1OC(\u003dO)CCNc1nnc(C)s1"
+}, {
+  "compound_chembl_id": "CHEMBL5433775",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OCc2cccc(C(\u003dO)NCCN)c2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL2443288",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cl.N\u003dc1c2c(\u003dS)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2nc(NCc2cccnc2)n1-c1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL2260073",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCN(CC)CCNCC(\u003dO)Oc1ccc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNCCN(CC)CC)c(OC)c2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL2259879",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCCC(\u003dO)Oc1ccc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCCCCC)c(OCC)c2)cc1OCC"
+}, {
+  "compound_chembl_id": "CHEMBL2443297",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N\u003dc1c2c(\u003dS)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2nc(NCc2cccnc2)n1-c1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL2259876",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNc3ccc(S(N)(\u003dO)\u003dO)cc3)c(OC)c2)ccc1OC(\u003dO)CNc1ccc(S(N)(\u003dO)\u003dO)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4227185",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(/C\u003dC/C(\u003dO)NO)\u003dC\\C(C)C(\u003dO)c1ccc(C2([C@H]3CC(\u003dO)O[C@@H]3CO[Si](C)(C)C(C)(C)C)SCCCS2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL53463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc2c1C(\u003dO)c1c(O)c3c(c(O)c1C2\u003dO)C[C@@](O)(C(\u003dO)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1"
+}, {
+  "compound_chembl_id": "CHEMBL5435906",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OC(C)C)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL5424300",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(/C\u003dC/c1ccccc1)Nc1ccc(-c2ccc3cc(O)ccc3c2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL123",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "Cc1c2ccncc2c(C)c2c1[nH]c1ccccc12"
+}, {
+  "compound_chembl_id": "CHEMBL2260082",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CN(CCCl)CCCl)c(OCC)c2)ccc1OC(\u003dO)CN(CCCl)CCCl"
+}, {
+  "compound_chembl_id": "CHEMBL4559962",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cccc(C(F)(F)F)c3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL2260078",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNC34CC5CC(CC(C5)C3)C4)c(OCC)c2)ccc1OC(\u003dO)CNC12CC3CC(CC(C3)C1)C2"
+}, {
+  "compound_chembl_id": "CHEMBL5404540",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OCc2cccc(C(\u003dO)NCCC(\u003dO)O)c2)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL5435880",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OCc2cccc(C(\u003dO)NCC(\u003dO)O)c2)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL5085385",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3580.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1ccc2c(c1)CCc1c(-c3ccccc3C(F)(F)F)cc(-c3ccc(O)cc3)nc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL2296493",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3749.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C/C\u003dC(\\C)C(\u003dO)C(CNCC(\u003dO)O)C1\u003dCC(\u003dO)c2nccc3c2c1nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL5399261",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCc1ccccc1)Nc1ccc(-c2ccc3cc(O)ccc3c2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4072011",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1ccc2c(c1)Oc1c(NCCN3CCOCC3)c(F)cc3c(\u003dO)c(C(\u003dO)O)cn-2c13"
+}, {
+  "compound_chembl_id": "CHEMBL4061346",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN1CCN(c2c(F)cc3c(\u003dO)c(C(\u003dO)O)cn4c3c2Oc2cc(N)ccc2-4)CC1"
+}, {
+  "compound_chembl_id": "CHEMBL4104625",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1ccc2c(c1)Oc1c(N3CC[C@@H](N)C3)c(F)cc3c(\u003dO)c(C(\u003dO)O)cn-2c13"
+}, {
+  "compound_chembl_id": "CHEMBL5411284",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "3900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2cc(C(N)\u003dO)ccc2OC2CCNCC2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL505529",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC1NC(\u003dO)C(C)C(CCC(C)C(\u003dO)/C\u003dC/C(C)\u003dC/CC(C)CCCCCCC)OC(\u003dO)[C@H](CC(OS(\u003dO)(\u003dO)O)C(N)\u003dO)NC(\u003dO)[C@@H](C)CNC1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL505529",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC1NC(\u003dO)C(C)C(CCC(C)C(\u003dO)/C\u003dC/C(C)\u003dC/CC(C)CCCCCCC)OC(\u003dO)[C@H](CC(OS(\u003dO)(\u003dO)O)C(N)\u003dO)NC(\u003dO)[C@@H](C)CNC1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL2260087",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNC34CC5CC(CC(C5)C3)C4)c(OC)c2)ccc1OC(\u003dO)CNC12CC3CC(CC(C3)C1)C2"
+}, {
+  "compound_chembl_id": "CHEMBL2260083",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNCCN(C)C)c(OCC)c2)ccc1OC(\u003dO)CNCCN(C)C"
+}, {
+  "compound_chembl_id": "CHEMBL2260081",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNCCCl)c(OCC)c2)ccc1OC(\u003dO)CNCCCl"
+}, {
+  "compound_chembl_id": "CHEMBL4474912",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCN1CCOCC1)Nc1ccc2c(-c3cc4ccccc4o3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL2259877",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)C34CC5CC(CC(C5)C3)C4)c(OC)c2)ccc1OC(\u003dO)C12CC3CC(CC(C3)C1)C2"
+}, {
+  "compound_chembl_id": "CHEMBL5393803",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(\u003dO)NC3CCNCC3)cc2OC(C)C)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL203666",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NCCCNc1ccc2c3c(nn2CCNCCO)-c2c(O)ccc(O)c2C(\u003dO)c13"
+}, {
+  "compound_chembl_id": "CHEMBL449350",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "C\u003dC(CCC(C(\u003dO)O)[C@H]1CC[C@@]2(C)C3\u003dCC[C@H]4C(C)(C)C(\u003dO)CC[C@]4(C)C3\u003dCC[C@]12C)C(C)C"
+}, {
+  "compound_chembl_id": "CHEMBL4514715",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)(C)C(\u003dO)Nc1ccc2c(-c3ccccc3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL1812137",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4880.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1C\u003dC2OCC(O)(Cc3ccccc3)c3cccc(c32)C1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4090898",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "4880.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCNC(\u003dO)c1ccc2nnc3c(c2c1)C(\u003dO)c1ccccc1-3"
+}, {
+  "compound_chembl_id": "CHEMBL4454056",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CN1CCOCC1)Nc1ccc2c(-c3cc4ccccc4o3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4547004",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3ccsc3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL3780961",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1c2c[n+](C)ccc2cc2c1c1ccccc1n2C.[I-]"
+}, {
+  "compound_chembl_id": "CHEMBL4564777",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cccs3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4176488",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(\u003dO)N[C@@H](Cc3ccccc3)C(\u003dO)O)cc2OC(C)C)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4082686",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(Nc1ccccc1)c1c(O)n(-c2ccccc2)c(\u003dS)n(-c2ccccc2)c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL2260091",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CN(CCCl)CCCl)c(OC)c2)ccc1OC(\u003dO)CN(CCCl)CCCl"
+}, {
+  "compound_chembl_id": "CHEMBL3883611",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5140.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCCNc1nc2ccccc2c2nc3ccccc3nc12"
+}, {
+  "compound_chembl_id": "CHEMBL58",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1c2c(O)ccc(O)c2C(\u003dO)c2c(NCCNCCO)ccc(NCCNCCO)c21"
+}, {
+  "compound_chembl_id": "CHEMBL4284675",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5380.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCNC(\u003dS)NNc1nc2ccccc2n2cnnc12"
+}, {
+  "compound_chembl_id": "CHEMBL4066762",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5440.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCOc1ccc2ccc3c4c(nnc3c2c1)-c1ccccc1C4\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4084827",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccccc1CNCCCN1C(\u003dO)c2ccc3c4c(ccc(c24)C1\u003dO)C(\u003dO)N(CCCOCCCCOCCCN)C3\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4476462",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "5800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cc(F)ccc3O)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL5427519",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "6000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(\u003dO)NCCN)cc2OC(C)C)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL583073",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "6000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccccc1CNCCCN1C(\u003dO)c2ccc3c4c(ccc(c24)C1\u003dO)C(\u003dO)N(CCCNCc1ccccc1OC)C3\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL5433691",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "6300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OCc2cccc(C(\u003dO)NC3CCNC3)c2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4584155",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "6400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3ccoc3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL5394051",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "6600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OC(C)C)nc1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4064888",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccccc1CNCCCN1C(\u003dO)c2ccc3c4c(ccc(c24)C1\u003dO)C(\u003dO)N(CCCCNCCCN)C3\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL575610",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCNC(\u003dO)CCC(\u003dO)NCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL5633521",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7020.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCc1nnc2c3ccccc3c(N/N\u003dC/c3ccc([N+](\u003dO)[O-])cc3)nn12"
+}, {
+  "compound_chembl_id": "CHEMBL4062965",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7080.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCCNC(\u003dO)c1ccc2nnc3c(c2c1)C(\u003dO)c1ccccc1-3"
+}, {
+  "compound_chembl_id": "CHEMBL2259875",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCNCCN(CC)CC)c(OCC)c2)ccc1OC(\u003dO)CCNCCN(CC)CC"
+}, {
+  "compound_chembl_id": "CHEMBL511712",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCO)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL4176270",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(\u003dO)NCC(\u003dO)O)cc2OC(C)C)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL83520",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1c2c(O)cccc2-c2nn(CCNCCO)c3ccc(NCCNCCO)c1c23"
+}, {
+  "compound_chembl_id": "CHEMBL4532318",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(Nc1cccc(OC(F)(F)F)c1)c1c(O)n(-c2ccccc2)c(\u003dS)n(-c2ccccc2)c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL2259642",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(O)c(OCC)c2)ccc1O"
+}, {
+  "compound_chembl_id": "CHEMBL5426888",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OC2CCNCC2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL5434165",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OCc2cccc(C(\u003dO)NC3CCCNC3)c2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4467606",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "7800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cccc(F)c3)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL2259880",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)c3cccs3)c(OC)c2)ccc1OC(\u003dO)c1cccs1"
+}, {
+  "compound_chembl_id": "CHEMBL4466874",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cc(F)cc(C(F)(F)F)c2)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4080410",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C2([C@H]3C[C@H](n4cc(C)c(\u003dO)[nH]c4\u003dO)O[C@@H]3CO[Si](C)(C)C(C)(C)C)SCCCS2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL4092588",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccccc1CNCCCN1C(\u003dO)c2ccc3c4c(ccc(c24)C1\u003dO)C(\u003dO)N(CCCNCCCCN)C3\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4633308",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8150.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1cc(-c2ccccc2)oc2cc(NS(\u003dO)(\u003dO)c3cc(C(F)(F)F)ccc3C(F)(F)F)ccc12"
+}, {
+  "compound_chembl_id": "CHEMBL5404744",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OCC(\u003dO)N2CCCC(N)C2)c(Cl)c1Cl.O\u003dC(O)C(F)(F)F"
+}, {
+  "compound_chembl_id": "CHEMBL4455867",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc(/C\u003dC/CNC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL549357",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "c1nc2c(NC3CCCCCC3)nc(Nc3ccc4ncsc4c3)nc2[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4574520",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cc(F)cc(C(F)(F)F)c2)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL2448070",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCOC(\u003dO)CCCCC(\u003dO)OCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2.Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4571449",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)c1ccc(CSc2nc(SCc3ccccc3F)[nH]c(\u003dO)n2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL5424300",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(/C\u003dC/c1ccccc1)Nc1ccc(-c2ccc3cc(O)ccc3c2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL525784",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "8900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC(C)[C@@H]1CC[C@]2(C(\u003dO)OC)CC[C@]3(CO)[C@H](CC[C@@H]4[C@@]5(C)CC[C@@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12"
+}, {
+  "compound_chembl_id": "CHEMBL2436126",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "9000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCNCC(O)COc1cc(O)c2c(\u003dO)c3ccccc3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL4575568",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "9000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)Nc1ccc2c(-c3cc(C(F)(F)F)ccc3O)ccnc2c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4450284",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "9200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(F)(F)c1cccc(NC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4445341",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "9200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)c1ccc(CSc2nc(SCc3ccc(Cl)cc3)[nH]c(\u003dO)n2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4582494",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "9700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)Oc1cccc(NC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL43",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "9940.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(NS(C)(\u003dO)\u003dO)ccc1Nc1c2ccccc2nc2ccccc12"
+}, {
+  "compound_chembl_id": "CHEMBL4074215",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1C(O)\u003dC(C(c2ccc3c(c2)OCO3)c2c(O)c3ccccc3oc2\u003dO)C(\u003dO)c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL4087024",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1C(O)\u003dC(C(c2ccccc2F)c2c(O)c3ccccc3oc2\u003dO)C(\u003dO)c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL2259872",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNCCN(CC)CC)c(OCC)c2)ccc1OC(\u003dO)CNCCN(CC)CC"
+}, {
+  "compound_chembl_id": "CHEMBL511712",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCO)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL4094724",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1C(O)\u003dC(C(c2ccccc2)c2c(O)c3ccccc3oc2\u003dO)C(\u003dO)c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL4092257",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1C(O)\u003dC(C(c2ccc(F)cc2)c2c(O)c3ccccc3oc2\u003dO)C(\u003dO)c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL4065593",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1C(O)\u003dC(C(c2ccc([N+](\u003dO)[O-])cc2)c2c(O)c3ccccc3oc2\u003dO)C(\u003dO)c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL4064565",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1C(O)\u003dC(C(c2ccc(Cl)cc2)c2c(O)c3ccccc3oc2\u003dO)C(\u003dO)c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL361708",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NC1\u003dNC(\u003dO)/C(\u003dC2\\CCNC(\u003dO)c3[nH]c(Br)cc32)N1"
+}, {
+  "compound_chembl_id": "CHEMBL4069784",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NCCCCNCCCNCC(O)COc1cc(O)c2c(\u003dO)c3ccccc3oc2c1.O\u003dC(O)C(F)(F)F.O\u003dC(O)C(F)(F)F.O\u003dC(O)C(F)(F)F"
+}, {
+  "compound_chembl_id": "CHEMBL3627832",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1c2ccc(Cl)cc2sc2c(N3CCNCC3)nc3ccccc3c12"
+}, {
+  "compound_chembl_id": "CHEMBL4084514",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1C(O)\u003dC(C(c2ccc(Br)cc2)c2c(O)c3ccccc3oc2\u003dO)C(\u003dO)c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL4460751",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(Nc1cccc(OC(F)F)c1)c1c(O)n(-c2ccccc2)c(\u003dS)n(-c2ccccc2)c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4529403",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(Nc1cccc([N+](\u003dO)[O-])c1)c1c(O)n(-c2ccccc2)c(\u003dS)n(-c2ccccc2)c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4864715",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10280.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#CC1\u003dC(N)Oc2c(c(\u003dO)oc3ccccc23)C1c1cc2ccccc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL289191",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC(C)[C@@H]1CC[C@]2(C)CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12"
+}, {
+  "compound_chembl_id": "CHEMBL1782155",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "10400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCNCC(O)COc1cc(O)c2c(\u003dO)c3ccccc3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL4551375",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "11100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc(C(F)(F)F)cc2)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL2436123",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "11200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCNCC(O)COc1cc(O)c2c(\u003dO)c3cccc(OC)c3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL3884560",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "11250.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCNc1nc2ccccc2c2nc3ccccc3nc12"
+}, {
+  "compound_chembl_id": "CHEMBL4577193",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "11400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(Nc1cccc(C(F)F)c1)c1c(O)n(-c2ccccc2)c(\u003dS)n(-c2ccccc2)c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL2260085",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "12000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCl)c(OCC)c2)ccc1OC(\u003dO)CCl"
+}, {
+  "compound_chembl_id": "CHEMBL2436122",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "12000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCNCC(O)COc1cc(O)c2c(\u003dO)c3cccc(OC)c3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL2260079",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "12000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNc3nc4ccc(OC)cc4s3)c(OCC)c2)ccc1OC(\u003dO)CNc1nc2ccc(OC)cc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL4647427",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "12090.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1cc(-c2ccccc2)oc2cc(NS(\u003dO)(\u003dO)c3ccc([N+](\u003dO)[O-])c(C(F)(F)F)c3)ccc12"
+}, {
+  "compound_chembl_id": "CHEMBL271063",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "12270.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CNc1cccc(Nc2c3ccccc3nc3sc(SC)nc23)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4878037",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "12380.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#CC1\u003dC(N)Oc2c(c(\u003dO)oc3ccccc23)C1c1c[nH]c2ccccc12"
+}, {
+  "compound_chembl_id": "CHEMBL4462115",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "12400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cccc(NC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL5410535",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2NC(C)C)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL406538",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "NCCc1c(C(c2[nH]c3cc(Br)ccc3c2CCNC(\u003dO)C(F)(F)F)c2c[nH]c3ccccc23)[nH]c2cc(Br)ccc12"
+}, {
+  "compound_chembl_id": "CHEMBL4748752",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOC(\u003dO)CCNc1c2ccccc2nc2ccccc12"
+}, {
+  "compound_chembl_id": "CHEMBL4064044",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCNC(\u003dO)c1ccc2nnc3c(c2c1)C(\u003dO)c1ccccc1-3"
+}, {
+  "compound_chembl_id": "CHEMBL5399261",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCc1ccccc1)Nc1ccc(-c2ccc3cc(O)ccc3c2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL2436125",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCCNCC(O)COc1cc(O)c2c(\u003dO)c3cccc(OC)c3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL2436124",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCNCC(O)COc1cc(O)c2c(\u003dO)c3cccc(OC)c3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL3883967",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCN(CC)CCCNc1nc2ccccc2c2nc3ccccc3nc12"
+}, {
+  "compound_chembl_id": "CHEMBL275665",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "13900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C(C)N1CC(\u003dO)NC(\u003dO)C1)N1CC(\u003dO)NC(\u003dO)C1"
+}, {
+  "compound_chembl_id": "CHEMBL4789593",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "14000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCOC(\u003dO)CCNc1c2ccccc2nc2ccccc12"
+}, {
+  "compound_chembl_id": "CHEMBL4746140",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "14000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOC(\u003dO)CCCNc1c2ccccc2nc2ccccc12"
+}, {
+  "compound_chembl_id": "CHEMBL5201228",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "14400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc2ccc(\u003dO)n(CCN[C@H]3CC[C@H]4[C@H](C3)OC(\u003dO)N4c3ccc4c(n3)NC(\u003dO)CO4)c2n1"
+}, {
+  "compound_chembl_id": "CHEMBL4533275",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "14400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#Cc1cccc(NC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4520281",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "14500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(/C\u003dC/c1ccc(O)cc1)c1cc2c(cc1O)O[C@H](c1ccc(O)cc1)[C@H]2C(\u003dO)c1ccc(O)cc1O"
+}, {
+  "compound_chembl_id": "CHEMBL2260089",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNc3nnc(C)s3)c(OC)c2)ccc1OC(\u003dO)CNc1nnc(C)s1"
+}, {
+  "compound_chembl_id": "CHEMBL5394609",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(N)\u003dO)cc2OC2CCNC2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL140",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(O)c(OC)c2)ccc1O"
+}, {
+  "compound_chembl_id": "CHEMBL2260088",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc2nc(NCC(\u003dO)Oc3ccc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c4ccc(OC(\u003dO)CNc5nc6ccc(OC)cc6s5)c(OC)c4)cc3OC)sc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL4473767",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(Nc1cccc(F)c1)c1c(O)n(-c2ccccc2)c(\u003dS)n(-c2ccccc2)c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4583627",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(/C\u003dC/c1ccc(O)cc1)c1ccc2c(c1O)[C@H](C(\u003dO)c1ccc(O)cc1O)[C@@H](c1ccc(O)cc1)O2"
+}, {
+  "compound_chembl_id": "CHEMBL270857",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15420.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CSc1nc2c(Nc3cccc(C(F)(F)F)c3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL4643603",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15450.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1cc(-c2ccccc2)oc2cc(NS(\u003dO)(\u003dO)c3cccc(C(F)(F)F)c3)ccc12"
+}, {
+  "compound_chembl_id": "CHEMBL4097472",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1ccc2c(c1)Oc1c(N3CCOCC3)c(F)cc3c(\u003dO)c(C(\u003dO)O)cn-2c13"
+}, {
+  "compound_chembl_id": "CHEMBL4540096",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "15800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc(CCNC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL2260092",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CNCCN(C)C)c(OC)c2)ccc1OC(\u003dO)CNCCN(C)C"
+}, {
+  "compound_chembl_id": "CHEMBL4752699",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCOC(\u003dO)CCCNc1c2ccccc2nc2ccccc12"
+}, {
+  "compound_chembl_id": "CHEMBL43",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(NS(C)(\u003dO)\u003dO)ccc1Nc1c2ccccc2nc2ccccc12"
+}, {
+  "compound_chembl_id": "CHEMBL4090510",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc(NC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL2436127",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCNCC(O)COc1cc(O)c2c(\u003dO)c3ccccc3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL3759668",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCCn1c(N)c(-c2nc3ccccc3[nH]2)c2nc(C#N)c(C#N)nc21"
+}, {
+  "compound_chembl_id": "CHEMBL5418790",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(/C\u003dC/c1ccccc1)Nc1ccc(/C\u003dC/c2cc(O)cc(O)c2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4870551",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16660.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#CC1\u003dC(N)Oc2c(c(\u003dO)oc3ccccc23)C1c1cnc2ccccc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL401886",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "16740.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CSc1nc2c(Nc3cccc(N)c3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL1631256",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "17000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "O\u003dC(O)c1ccc2[nH]c(C[n+]3ccccc3)nc2c1.[Cl-]"
+}, {
+  "compound_chembl_id": "CHEMBL5288212",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "17000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2nc3c(N4CCOCC4)cc(C(\u003dO)O)cc3s2)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL1915761",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "17000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "C[C@H](CCC\u003dC(CO)CO)[C@H]1CC[C@@]2(C)C3\u003dCC[C@H]4C(C)(C)C(\u003dO)CC[C@]4(C)C3\u003dCC[C@]12C"
+}, {
+  "compound_chembl_id": "CHEMBL4849502",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "17120.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1cc2occ(-c3nc(-c4ccccc4)c(-c4ccccc4)n3-c3ccc(Br)cc3)c(\u003dO)c2cc1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL491188",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "17500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC1(C)CC[C@]2(C)C[C@H](O)[C@]3(C)C(\u003dCC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1"
+}, {
+  "compound_chembl_id": "CHEMBL465251",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "17600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C[C@@]1(C(\u003dO)O)CC[C@]2(C)CC[C@]3(C)C4\u003dCC(\u003dO)c5c(cc(O)c(O)c5C(\u003dO)O)[C@]4(C)CC[C@@]3(C)[C@@H]2C1"
+}, {
+  "compound_chembl_id": "CHEMBL3885093",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "17750.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCSc1nc2ccccc2c2nc3ccccc3nc12"
+}, {
+  "compound_chembl_id": "CHEMBL573552",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "18000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCN)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL5417086",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "18000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2cc(C(N)\u003dO)ccc2OCCN)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL2260074",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "18000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCNC34CC5CC(CC(C5)C3)C4)c(OC)c2)ccc1OC(\u003dO)CCNC12CC3CC(CC(C3)C1)C2"
+}, {
+  "compound_chembl_id": "CHEMBL256857",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "18040.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CSc1nc2c(Nc3cc(N)cc(CO)c3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL4060026",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "18500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C2([C@H]3C[C@@H](n4cc(C)c(\u003dO)[nH]c4\u003dO)O[C@@H]3CO[Si](C)(C)C(C)(C)C)SCCCS2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL362672",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "18600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC1\u003dC2OCC(C)c3ccc(C)c(c32)C(\u003dO)C1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL406537",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "19000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "NCCc1c(C(c2[nH]c3cc(Br)ccc3c2CCNC(\u003dO)C(F)(F)F)c2cn(S(\u003dO)(\u003dO)c3ccccc3)c3ccccc23)[nH]c2cc(Br)ccc12"
+}, {
+  "compound_chembl_id": "CHEMBL2260075",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "19000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc2nc(NCCC(\u003dO)Oc3ccc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c4ccc(OC(\u003dO)CCNc5nc6ccc(OC)cc6s5)c(OC)c4)cc3OC)sc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL4800560",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "19086.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1c2cnc3ccccc3c2cc2[nH]c3ccccc3c12"
+}, {
+  "compound_chembl_id": "CHEMBL4080410",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "19100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C2([C@H]3C[C@H](n4cc(C)c(\u003dO)[nH]c4\u003dO)O[C@@H]3CO[Si](C)(C)C(C)(C)C)SCCCS2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL261294",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "19400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)Cn1nc2c(n1)C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL3885280",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "19440.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "c1ccc2nc3c(nc2c1)c(NCCN1CCCCC1)nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL3883774",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "19500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCNc1nc2ccccc2c2nc3ccccc3nc12"
+}, {
+  "compound_chembl_id": "CHEMBL2436128",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "19700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCCNCC(O)COc1cc(O)c2c(\u003dO)c3ccccc3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL323957",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "20000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "Oc1ccccc1-c1nc2c(-c3nc4ccccc4o3)cccc2o1"
+}, {
+  "compound_chembl_id": "CHEMBL2260086",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "20000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCCl)c(OCC)c2)ccc1OC(\u003dO)CCCl"
+}, {
+  "compound_chembl_id": "CHEMBL2260084",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "20000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)CCl)c(OC)c2)ccc1OC(\u003dO)CCl"
+}, {
+  "compound_chembl_id": "CHEMBL323957",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "20000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "Oc1ccccc1-c1nc2c(-c3nc4ccccc4o3)cccc2o1"
+}, {
+  "compound_chembl_id": "CHEMBL270218",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "20490.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CSc1nc2c(Nc3ccc(Cl)cc3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL4636706",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "20820.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1cc(-c2ccccc2)oc2cc(NS(\u003dO)(\u003dO)c3ccc([N+](\u003dO)[O-])cc3)ccc12"
+}, {
+  "compound_chembl_id": "CHEMBL4740882",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "20900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CNc1cc(F)cc2c(O)c(C(\u003dO)Nc3ccc(C(\u003dO)NS(\u003dO)(\u003dO)N(C)C)cc3)c(\u003dO)[nH]c12"
+}, {
+  "compound_chembl_id": "CHEMBL269800",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "21200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CSc1nc2c(Nc3cccc(Cl)c3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "21800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL575645",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "22000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCNC(\u003dO)CCCCCC(\u003dO)NCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL5437744",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "22000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(O)c1ccc(CCNC(\u003dO)c2cc(O)ccc2NC(\u003dO)c2cc(Br)c(Br)[nH]2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4457871",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "22500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc(CNC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4461057",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "22500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(NC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)ccc1F"
+}, {
+  "compound_chembl_id": "CHEMBL2260072",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "23000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCOc1cc(/C\u003dC/C(\u003dO)CC(\u003dO)/C\u003dC/c2ccc(OC(\u003dO)c3cccs3)c(OCC)c2)ccc1OC(\u003dO)c1cccs1"
+}, {
+  "compound_chembl_id": "CHEMBL4753823",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "23361.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "c1ccc2c(c1)ncc1cc3c(cc12)[nH]c1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL3884844",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "23770.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCOc1nc2ccccc2c2nc3ccccc3nc12"
+}, {
+  "compound_chembl_id": "CHEMBL5406118",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "24000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(O)cc2C(\u003dO)NCc2ccc(C(\u003dO)O)cc2)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL1627911",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "24100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "Cc1c2c(c(C)c3c1[nH]c1ccccc13)CN(C(\u003dO)NCCCCCCNC(\u003dO)C[C@]1(O)CC[C@H]3[C@@H]4CCc5cc(O)ccc5[C@H]4CC[C@@]31C)C\u003dC2"
+}, {
+  "compound_chembl_id": "CHEMBL2205004",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "25000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)O[C@H]1C[C@H]([C@H](C)CC/C\u003dC(\\C)C(\u003dO)O)[C@@]2(C)CC\u003dC3C(\u003dCC[C@H]4C(C)(C)[C@@H](O)CC[C@]34C)[C@]12C"
+}, {
+  "compound_chembl_id": "CHEMBL575641",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "25000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCNC(\u003dO)CCCC(\u003dO)NCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL5419071",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "25000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(NC(\u003dO)c2[nH]c(C)c(Br)c2Br)c(C(\u003dO)NCCc2ccc(C(\u003dO)O)cc2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL498898",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "25000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCOC(\u003dO)CC(\u003dO)OCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL5426748",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "25000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2nc3c(OC(C)c4ccccc4)cc(C(\u003dO)O)cc3s2)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL573581",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "25000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCN\u003d[N+]\u003d[N-])CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL479291",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "25800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "[O-]c1cc2c3c(c1)c1cc4c(cc1c[n+]3CC2)OCO4"
+}, {
+  "compound_chembl_id": "CHEMBL1765797",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "26000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1NC(\u003dS)NC(\u003dO)C1C(\u003dO)Nc1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL5432018",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "26000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OC2CCNCC2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4228731",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "26100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)(C)[Si](C)(C)OC[C@H]1OC(\u003dO)C[C@@H]1C1(c2ccccc2)SCCCS1"
+}, {
+  "compound_chembl_id": "CHEMBL4855587",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "26420.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#CC1\u003dC(N)Oc2c(c(\u003dO)oc3ccccc23)C1c1cc(\u003dO)c2ccccc2o1"
+}, {
+  "compound_chembl_id": "CHEMBL4745205",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "26600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCNc1cccc2c1C(\u003dO)c1nc3ccccc3c(\u003dO)n1-2"
+}, {
+  "compound_chembl_id": "CHEMBL1222275",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "26950.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(O)C[C@H](NC(\u003dO)OCc1ccccc1)C(\u003dO)O"
+}, {
+  "compound_chembl_id": "CHEMBL5413957",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "27000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OCc2cccc(C(\u003dO)N3CCCC(N)C3)c2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4441893",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "28000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dC/CNC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "28200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL259225",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "28600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(Cn2nnc3c2C(\u003dO)c2cnncc2C3\u003dO)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL301735",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "28920.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN1CCN(c2ccc3[nH]c(-c4ccc5[nH]c(-c6ccc(O)cc6)nc5c4)nc3c2)CC1"
+}, {
+  "compound_chembl_id": "CHEMBL5437872",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "29000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OCc2cccc(C(\u003dO)O)c2)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL5432018",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "29000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OC2CCNCC2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4093358",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "29060.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCOc1ccc2ccc3c4c(nnc3c2c1)-c1ccccc1C4\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL256181",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "29560.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CSc1nc2c(Nc3cccc(NC(C)\u003dO)c3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL261341",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "29800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)Cn1nnc2c1C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL34922",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "30000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN1CCN(c2ccc3nc(-c4ccc5nc(-c6ccc(O)cc6)[nH]c5c4)[nH]c3c2)CC1.Cl.Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4090510",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "30000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc(NC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL1765797",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "32000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1NC(\u003dS)NC(\u003dO)C1C(\u003dO)Nc1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL5414423",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "32000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2cc(C(N)\u003dO)ccc2OC2CCNC2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL111574",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "32000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "COC(\u003dO)c1cccc2oc(-c3cccc4oc(-c5ccccc5O)nc34)nc12"
+}, {
+  "compound_chembl_id": "CHEMBL451123",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "32000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCOC(\u003dO)CCCC(\u003dO)OCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL5434616",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "32000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccc(C(\u003dO)N3CCCC(N)C3)cc2OC(C)C)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL505580",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "33000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCOC(\u003dO)CCCCCC(\u003dO)OCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)C1C(Cl)\u003dCC\u003dCC21)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL260224",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "33300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)n1nnc2c1C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "33800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "33800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4474402",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "34000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc(C(F)(F)F)cc2)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL3884562",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "34330.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCCn1c(\u003dO)c2nc3ccccc3nc2c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL4464742",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "34400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cc(F)cc(C(F)(F)F)c2)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL3605908",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "34930.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#Cc1ncn(Cc2ccccc2Cl)c1/N\u003dC/c1cc(Cl)cc(Cl)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL3134416",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "35000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCc1cc(OC(\u003dO)c2c(O)cc(O)cc2CCCCC)cc(O)c1C(\u003dO)O"
+}, {
+  "compound_chembl_id": "CHEMBL3134416",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "35000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCc1cc(OC(\u003dO)c2c(O)cc(O)cc2CCCCC)cc(O)c1C(\u003dO)O"
+}, {
+  "compound_chembl_id": "CHEMBL5413609",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "35000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OC2CCNC2)c(Cl)c1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL5431666",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "35000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2ccccc2OCc2cccc(C(\u003dO)NCCN)c2)cc1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4099888",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "35200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1cn([C@H]2C[C@H](Cc3ccc(O)c(O)c3)[C@@H](CO[Si](C)(C)C(C)(C)C)O2)c(\u003dO)[nH]c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL3883657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "35650.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCn1c(\u003dO)c2nc3ccccc3nc2c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL4475269",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "36600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cc(F)c(F)cc2F)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4448631",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "36700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)c1ccc(CSc2nc(SCc3cccc(Cl)c3)[nH]c(\u003dO)n2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4456760",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "36900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc(C(F)(F)F)cc2)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL5427076",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "37000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCc1[nH]c(C(\u003dO)Nc2ccccc2OCc2cccc(C(\u003dO)NCCN)c2)nc1Cl.Cl"
+}, {
+  "compound_chembl_id": "CHEMBL226528",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "37500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "CC(C)\u003dCCCC(C(\u003dO)O)[C@H]1CC[C@@]2(C)C3\u003dCC[C@H]4C(C)(C)C(\u003dO)CC[C@]4(C)C3\u003dCC[C@]12C"
+}, {
+  "compound_chembl_id": "CHEMBL5430015",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "38000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCNC(\u003dO)Nc1ccc(OC2CCNCC2)c(NC(\u003dO)c2[nH]c(C)c(Cl)c2Cl)c1"
+}, {
+  "compound_chembl_id": "CHEMBL324426",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "38000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "COC(\u003dO)c1cccc2oc(-c3cccc4oc(-c5ccccc5)nc34)nc12"
+}, {
+  "compound_chembl_id": "CHEMBL5403649",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "38000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1[nH]c(C(\u003dO)Nc2cc(C(\u003dO)O)ccc2OC2CCN(C(\u003dO)OC(C)(C)C)CC2)c(Cl)c1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL4538702",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "38600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cc(F)c(F)cc2F)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL23236",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "38600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC(C)[C@@H]1CC[C@]2(CO)CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12"
+}, {
+  "compound_chembl_id": "CHEMBL489552",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "38700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC1(C)CC[C@]2(C)C[C@H](O)[C@]3(C)C(\u003dCC[C@@H]4[C@@]5(C)CC[C@H](O)[C@](C)(CO)[C@@H]5CC[C@]43C)[C@@H]2C1"
+}, {
+  "compound_chembl_id": "CHEMBL4563940",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "38700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C(\u003dO)O)c1ccc(CSc2nc(SCc3ccccc3F)[nH]c(\u003dO)n2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL5438988",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "39000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(NC(\u003dO)c2cc(Br)c(Br)[nH]2)c(C(\u003dO)NCc2ccc(C(\u003dO)O)cc2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL259778",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "39000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cn1nnc2c1C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4869150",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "39880.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1cc2occ(-c3nc(-c4ccccc4)c(-c4ccccc4)n3-c3ccc(Cl)c(Cl)c3)c(\u003dO)c2cc1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL3780229",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "40000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1c2cnccc2cc2c1c1ccccc1n2C"
+}, {
+  "compound_chembl_id": "CHEMBL1765797",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "40000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1NC(\u003dS)NC(\u003dO)C1C(\u003dO)Nc1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL1738",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "40000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C[C@@H](CN1CC(\u003dO)NC(\u003dO)C1)N1CC(\u003dO)NC(\u003dO)C1"
+}, {
+  "compound_chembl_id": "CHEMBL1765797",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "40000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1NC(\u003dS)NC(\u003dO)C1C(\u003dO)Nc1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL466893",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "40950.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCN(CC)CCCNc1nc2c(Nc3cccc(Cl)c3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL575795",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "42000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCNC(\u003dO)CC(\u003dO)NCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL462847",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "42600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC(C)[C@@H]1CC\u003dC2[C@@H](CC[C@]3(C)[C@@H]([C@H](C)C[C@@H]4C[C@@H](C)C(\u003dO)O4)CC[C@@]23C)[C@@]1(C)CCC(\u003dO)O"
+}, {
+  "compound_chembl_id": "CHEMBL4454954",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "43200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2c(F)cccc2F)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL260541",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "43200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCn1nnc2c1C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL1939412",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "44000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(O)c1ccc(Nc2ncnc3[nH]cnc23)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL261330",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "44400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCn1nc2c(n1)C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL5420445",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "45000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cl.NCCNC(\u003dO)c1cccc(COc2ccccc2NC(\u003dO)c2cc(Br)c(Br)[nH]2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4803128",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "45000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COC(\u003dO)[C@@H](C)NC(\u003dO)c1ccc(NC(\u003dO)c2[nH]c(C)c(Cl)c2Cl)c(OC2CCNCC2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4590533",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "45300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cccc(O)c2)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL2420958",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "46500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(/C\u003dN/n2cnc3c(cnn3Cc3ccccc3)c2\u003dO)ccc1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "47500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL575801",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "48000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCNC(\u003dO)CCCCC(\u003dO)NCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL4853443",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "48400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1cc2occ(-c3nc(-c4ccccc4)c(-c4ccccc4)n3-c3ccc([N+](\u003dO)[O-])cc3)c(\u003dO)c2cc1Cl"
+}, {
+  "compound_chembl_id": "CHEMBL258925",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "49000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCn1nnc2c1C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL506257",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "50000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(CCOC(\u003dO)CCC(\u003dO)OCCN(C)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2)CCn1nc2c3c(cccc31)C(\u003dO)c1c(Cl)cccc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL3357980",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "50000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1noc2c(F)c3c(cc12)CC1(C(\u003dO)NC(\u003dO)NC1\u003dO)[C@H]1[C@H](C)O[C@H](C)CN31"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "50000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL111574",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "50000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "COC(\u003dO)c1cccc2oc(-c3cccc4oc(-c5ccccc5O)nc34)nc12"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "50200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL462848",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "50400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC(C)[C@@H]1CC\u003dC2[C@@H](CC[C@]3(C)[C@@H]([C@H](C)C[C@H](O)C[C@@H](C)CO)CC[C@@]23C)[C@@]1(C)CCCO"
+}, {
+  "compound_chembl_id": "CHEMBL3581009",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "51600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C#CCOc1ccc(-c2nc3ccc(-c4nc5ccc(N6CCN(C)CC6)cc5[nH]4)cc3[nH]2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL1914951",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "52660.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)(C)Nc1c(-c2ccc(C(\u003dO)O)cc2)nc2ccccn12"
+}, {
+  "compound_chembl_id": "CHEMBL259990",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "52800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1c2cnncc2C(\u003dO)c2[nH]nnc21"
+}, {
+  "compound_chembl_id": "CHEMBL4094285",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "52890.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(C)CCCOc1ccc2c(ccc3c4c(nnc32)-c2ccccc2C4\u003dO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4462449",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "54200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(CSc2nc(SCc3cccc(Cl)c3)[nH]c(\u003dO)n2)cc(OC)c1"
+}, {
+  "compound_chembl_id": "CHEMBL261342",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "54500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)n1nc2c(n1)C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL1836470",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "54600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL3317856",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "55200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1ccc2ncc(\u003dO)n3c2n1C[C@H]3CN1CCC(NCc2cc3c(cn2)OCCC3)CC1"
+}, {
+  "compound_chembl_id": "CHEMBL4455537",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "55300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc3nonc3c2)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4226061",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "55300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C2([C@H]3CC(\u003dO)O[C@@H]3CO[Si](C)(C)C(C)(C)C)SCCCS2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL3578326",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "55370.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)(C)Nc1c(-c2ccc(Cl)cc2)nc2ccc(-c3ccccc3)cn12"
+}, {
+  "compound_chembl_id": "CHEMBL4437561",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "55500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc3nonc3c2)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL406853",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "55600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCn1nnc2c1C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL259989",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "55600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cn1nc2c(n1)C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4104323",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "55700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C2(C3CC(\u003dO)O[C@@H]3CO[Si](C)(C)C(C)(C)C)SCCCS2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "56000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "56000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL1836470",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "57600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL5430260",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "59800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Oc1cc(O)cc(/C\u003dC/c2cc(-c3ccoc3)ccc2O)c1"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "60300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL261876",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "61500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCn1nc2c(n1)C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL197216",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "63000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "O\u003dC1Oc2ccccc2/C1\u003dC\\c1cc(O)c(O)c(O)c1"
+}, {
+  "compound_chembl_id": "CHEMBL429930",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "64340.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CSc1nc2c(Nc3cccc(O)c3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL4088260",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "64500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C2([C@H]3C[C@H](n4cc(C)c(\u003dO)[nH]c4\u003dO)O[C@@H]3CO)SCCCS2)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL260223",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "64800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCn1nc2c(n1)C(\u003dO)c1cnncc1C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4435344",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "65000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(O)c1cccc(Nc2ncnc3[nH]cnc23)c1"
+}, {
+  "compound_chembl_id": "CHEMBL5412859",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "67000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(NC(\u003dO)c2[nH]c(C)c(Cl)c2Cl)c(C(\u003dO)NCc2ccc(C(\u003dO)O)cc2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL464897",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "67300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC(C)[C@@H]1CC\u003dC2[C@@H](CC[C@]3(C)[C@@H]([C@H](C)CC(\u003dO)C[C@@H](C)C(\u003dO)OC)CC[C@@]23C)[C@@]1(C)CCC(\u003dO)OC"
+}, {
+  "compound_chembl_id": "CHEMBL3220041",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "67860.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN(c1ccccc1)c1oc2ccccc2c(\u003dO)c1C\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "68300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "71000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "71000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL1836463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "72500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL1836463",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "72500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL5195268",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "72800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#Cc1ccc2ccc(\u003dO)n(CCN[C@H]3CC[C@H]4[C@H](C3)OC(\u003dO)N4c3ccc4c(n3)NC(\u003dO)CO4)c2c1"
+}, {
+  "compound_chembl_id": "CHEMBL4591521",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "74400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(CCNC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL1914951",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "Ki",
+  "standard_value": "75000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C)(C)Nc1c(-c2ccc(C(\u003dO)O)cc2)nc2ccccn12"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "75700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL518106",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "75700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC(C)[C@@H]1CC\u003dC2[C@@H](CC[C@]3(C)[C@@H]([C@H](C)C[C@@H]4C[C@@H](C)C(\u003dO)O4)CC[C@@]23C)[C@@]1(C)CCC(\u003dO)OC"
+}, {
+  "compound_chembl_id": "CHEMBL1765791",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "76000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CNC(\u003dS)N/N\u003dC/c1ccccn1"
+}, {
+  "compound_chembl_id": "CHEMBL5409382",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "76000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cl.NCCNC(\u003dO)c1cccc(COc2ccccc2NC(\u003dO)c2cc(Cl)c(Cl)[nH]2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "78400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "78400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL2435181",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "78900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCCCCC(\u003dO)Oc1c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c2c1\u003dO)NCC(\u003dO)Nc1ccc(O)c(CO)c1"
+}, {
+  "compound_chembl_id": "CHEMBL507986",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "79000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCNC(\u003dS)N/N\u003dC(\\C)c1ccccn1"
+}, {
+  "compound_chembl_id": "CHEMBL4569140",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "84000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(CSc2nc(SCc3ccc(Cl)cc3)[nH]c(\u003dO)n2)cc(OC)c1"
+}, {
+  "compound_chembl_id": "CHEMBL1437990",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "85000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1nc(SCCc2ccccc2)c2nc[nH]c2n1"
+}, {
+  "compound_chembl_id": "CHEMBL3884650",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "87580.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCN(CC)CCn1c(\u003dO)c2nc3ccccc3nc2c2ccccc21"
+}, {
+  "compound_chembl_id": "CHEMBL4081883",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "89200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C[C@H]2C[C@@H](n3cc(C)c(\u003dO)[nH]c3\u003dO)O[C@@H]2CO[Si](C)(C)C(C)(C)C)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL446813",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "92000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CNC(\u003dS)N/N\u003dC(\\C)c1ccccn1"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "92900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL1765792",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "94000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCNC(\u003dS)N/N\u003dC/c1ccccn1"
+}, {
+  "compound_chembl_id": "CHEMBL1836469",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "94100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2ccccc2Cl)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4061636",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "99100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C[C@H]2C[C@H](n3cc(C)c(\u003dO)[nH]c3\u003dO)O[C@@H]2CO[Si](C)(C)C(C)(C)C)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL3883595",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "100000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "c1ccc2nc3c(nc2c1)c(NCCN1CCOCC1)nc1ccccc13"
+}, {
+  "compound_chembl_id": "CHEMBL2436126",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "100000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCNCC(O)COc1cc(O)c2c(\u003dO)c3ccccc3oc2c1"
+}, {
+  "compound_chembl_id": "CHEMBL445599",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "101200.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C\u003dC(C)[C@H](CC\u003dC(C)C)C[C@]12C[C@H](CC\u003dC(C)C)C(C)(C)[C@](CC\u003dC(C)C)(C(\u003dO)C(C(\u003dO)c3ccc(O)c(O)c3)\u003dC1O)C2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4543031",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "107800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(CNC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "110000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL4756707",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "114000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN1CCN(c2cccc3c2C(\u003dO)c2nc4ccccc4c(\u003dO)n2-3)CC1"
+}, {
+  "compound_chembl_id": "CHEMBL592862",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "114000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](NC(\u003dO)c3ccc(C5(C(F)(F)F)N\u003dN5)cc3)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL372661",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "120000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "O\u003dC1Oc2ccc(O)cc2/C1\u003dC\\c1cc(O)c(O)c(O)c1"
+}, {
+  "compound_chembl_id": "CHEMBL1765797",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "120000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC1NC(\u003dS)NC(\u003dO)C1C(\u003dO)Nc1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL4098224",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "120000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(NC(\u003dO)c2c(O)n(-c3ccccc3)c(\u003dS)n(-c3ccccc3)c2\u003dO)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "120000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL44657",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "120000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(\u003dO)[C@H]23)OCO4)cc(OC)c1O"
+}, {
+  "compound_chembl_id": "CHEMBL3134419",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "125000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCc1cc(O)cc(O)c1C(\u003dO)Oc1ccc(C(\u003dO)O)c(O)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4079855",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "125000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(O)c1cn2c3c(c(F)c(F)cc3c1\u003dO)Oc1cc([N+](\u003dO)[O-])c(Cl)cc1-2"
+}, {
+  "compound_chembl_id": "CHEMBL4435976",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "126600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc(CO)cc2)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4558064",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "127600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1c(N2CC[C@@H](CN)C2)c(F)cc2c(\u003dO)c(C(\u003dO)O)cn(Cc3ccc(-c4ccccc4)cc3)c12"
+}, {
+  "compound_chembl_id": "CHEMBL4470699",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "128400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC[C@H]1CN(c2noc3c(F)c4c(cc23)CC2(C(\u003dO)NC(\u003dO)NC2\u003dO)[C@H]2[C@H](C)O[C@H](C)CN42)C(\u003dO)S1"
+}, {
+  "compound_chembl_id": "CHEMBL4558044",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "128400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cccc(O)c2)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4471904",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "129100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cccc(O)c2)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4089751",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "137000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(C[C@H]2CC(\u003dO)O[C@@H]2CO[Si](C)(C)C(C)(C)C)cc1OC"
+}, {
+  "compound_chembl_id": "CHEMBL4747945",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "137500.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN1CCN(c2ccc3c(c2)-n2c(nc4ccccc4c2\u003dO)C3\u003dO)CC1"
+}, {
+  "compound_chembl_id": "CHEMBL1345545",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "139000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1nc(CSC(\u003dS)N2CCOCC2)nc(Nc2ccc(F)cc2)n1"
+}, {
+  "compound_chembl_id": "CHEMBL4528607",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "145100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C(\u003dO)O)c1ccc(CSc2nc(SCc3cccc(Cl)c3)[nH]c(\u003dO)n2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL1836465",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "146600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2ccc(F)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL2435185",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "149000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(CCCCCC(\u003dO)Oc1c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c2c1\u003dO)NCC(\u003dO)Nc1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL4062530",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "150000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(Nc1ccc(O)cc1)c1c(O)n(-c2ccccc2)c(\u003dS)n(-c2ccccc2)c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL1836509",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "153400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#Cc1ccc(CSc2nc(SCc3ccccc3)nc(\u003dO)[nH]2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL8",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "153600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4445376",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "154900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc(CO)cc2)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4591629",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "156600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc(CO)cc2)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4753427",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "160000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N[C@H]1CCc2nc(-c3ccncc3)nc(Nc3cccc(F)c3)c2C1"
+}, {
+  "compound_chembl_id": "CHEMBL4784903",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "160000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N[C@@H]1CCc2nc(-c3ccncc3)nc(Nc3cccc(F)c3)c2C1"
+}, {
+  "compound_chembl_id": "CHEMBL3548140",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "160000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NC1CCc2nc(-c3ccncc3)nc(Nc3cccc(F)c3)c2C1"
+}, {
+  "compound_chembl_id": "CHEMBL4544610",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "161400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C(\u003dO)O)c1ccc(CSc2nc(SCc3ccc(Cl)cc3)[nH]c(\u003dO)n2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL4450503",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "164100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2cc(F)c(F)cc2F)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4461990",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "164600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1c(N2CC[C@@H](CN)C2)c(F)cc2c(\u003dO)c(C(\u003dO)O)cn(Cc3ccc4ccccc4c3)c12"
+}, {
+  "compound_chembl_id": "CHEMBL4589870",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "165600.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2c(F)cccc2F)nc(SCc2cccc(Cl)c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL256856",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "168900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCN(CC)CCNc1nc2c(Nc3ccccc3)c3ccccc3nc2s1"
+}, {
+  "compound_chembl_id": "CHEMBL4782390",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "170000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc(Nc2nc(-c3ccncc3)nc3c2CC(N)CC3)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4472792",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "170800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2c(F)cccc2F)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4089711",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "176000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Cc1cn([C@H]2C[C@H](Cc3ccc(O)c(O)c3)[C@@H](CO)O2)c(\u003dO)[nH]c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4749636",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "200000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NC1CCc2nc(-c3cccnc3)nc(Nc3cccc(F)c3)c2C1"
+}, {
+  "compound_chembl_id": "CHEMBL4100676",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "200000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(Nc1cccc(O)c1)c1c(O)n(-c2ccccc2)c(\u003dS)n(-c2ccccc2)c1\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL4445556",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "210000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NC[C@H](Oc1noc2ccc(-c3ccccc3Cl)cc12)c1ccccc1"
+}, {
+  "compound_chembl_id": "CHEMBL1836506",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "219300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL1836506",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "219300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2ccc(Cl)cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4750336",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "220000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NC1CCc2nc(-c3ccncc3)nc(Nc3ccc(F)cc3)c2C1"
+}, {
+  "compound_chembl_id": "CHEMBL1505015",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "229000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1ccc(Nc2nc(N)nc(CSC(\u003dS)N3CCOCC3)n2)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL1836513",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "234700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCSc1nc(SCc2ccccc2)nc(\u003dO)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL195195",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "240000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "O\u003dC1Oc2ccc(O)cc2/C1\u003dC\\c1ccc(O)c(O)c1"
+}, {
+  "compound_chembl_id": "CHEMBL1929025",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "240000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(\u003dO)OC[C@]1(O)CO[C@H](Oc2c(-c3ccc(O)cc3)oc3cc(O[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)cc(O)c3c2\u003dO)[C@H]1O"
+}, {
+  "compound_chembl_id": "CHEMBL3134421",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "250000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCc1cc(O)cc(OC(\u003dO)c2c(O)cc(O)cc2CCCCC)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4066307",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "250000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CN1CCN(c2c(F)cc3c(\u003dO)c(C(\u003dO)O)cn4c3c2Oc2cc([N+](\u003dO)[O-])ccc2-4)CC1"
+}, {
+  "compound_chembl_id": "CHEMBL3134418",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "250000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCc1cc(OC(\u003dO)c2ccc(O)cc2O)cc(O)c1C(\u003dO)O"
+}, {
+  "compound_chembl_id": "CHEMBL4559360",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "268900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccc3nonc3c2)nc(SCc2ccccc2F)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL195143",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "272000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "O\u003dC1Oc2ccccc2/C1\u003dC\\c1ccc(O)c(O)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4474662",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "293400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NC(\u003dO)c1cccc(CSc2nc(SCc3ccc(Cl)cc3)[nH]c(\u003dO)n2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL5076925",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "301000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CC(C(C)N1CC(\u003dO)NC(\u003dO)C1)N1CCNC(\u003dO)C1"
+}, {
+  "compound_chembl_id": "CHEMBL371047",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "327000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "O\u003dC1Oc2ccccc2/C1\u003dC\\c1ccc(O)cc1"
+}, {
+  "compound_chembl_id": "CHEMBL1929026",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "330000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C[C@@H]1O[C@@H](Oc2cc(O)c3c(\u003dO)c(O[C@@H]4OC[C@H](O)[C@H](O)[C@H]4O)c(-c4ccc(O)cc4)oc3c2)[C@H](O)[C@H](O)[C@H]1O"
+}, {
+  "compound_chembl_id": "CHEMBL3361009",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "337000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "Nc1nc(CSc2nnn[nH]2)nc(Nc2ccc(F)cc2)n1"
+}, {
+  "compound_chembl_id": "CHEMBL372372",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "351000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "8",
+  "canonical_smiles": "COc1cc(/C\u003dC2/C(\u003dO)Oc3ccccc32)ccc1O"
+}, {
+  "compound_chembl_id": "CHEMBL1836468",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "358900.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2ccc([N+](\u003dO)[O-])cc2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL1836466",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "376700.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2ccccc2[N+](\u003dO)[O-])[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL4550972",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "388100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dC(O)c1cccc(CSc2nc(SCc3cccc(Cl)c3)[nH]c(\u003dO)n2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL499847",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "404000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1ccc2c(ccc3ccoc32)o1"
+}, {
+  "compound_chembl_id": "CHEMBL4538236",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "422100.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cc(CSc2nc(SCc3ccccc3F)[nH]c(\u003dO)n2)cc(OC)c1"
+}, {
+  "compound_chembl_id": "CHEMBL4436399",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "451400.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NC(\u003dO)c1cccc(CSc2nc(SCc3cccc(Cl)c3)[nH]c(\u003dO)n2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL1836516",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "481000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCC2CC2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL1836461",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "485300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "COc1cccc(CSc2nc(SCc3ccccc3)nc(\u003dO)[nH]2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL1836510",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "485800.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#Cc1ccc(CSc2nc(SCc3ccccc3)nc(\u003dO)[nH]2)c(F)c1"
+}, {
+  "compound_chembl_id": "CHEMBL1836467",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "488300.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "O\u003dc1nc(SCc2ccccc2)nc(SCc2cccc([N+](\u003dO)[O-])c2)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL3134404",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "500000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "CCCCCc1cc(O)cc(O)c1C(\u003dO)Oc1cc(CCCCC)c2c(c1)OC(C)(C)OC2\u003dO"
+}, {
+  "compound_chembl_id": "CHEMBL1836507",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "522000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#Cc1ccccc1CSc1nc(SCc2ccccc2)nc(\u003dO)[nH]1"
+}, {
+  "compound_chembl_id": "CHEMBL1836508",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "528000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "N#Cc1cccc(CSc2nc(SCc3ccccc3)nc(\u003dO)[nH]2)c1"
+}, {
+  "compound_chembl_id": "CHEMBL1929194",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "550000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C[C@@H]1O[C@@H](Oc2cc(O)c3c(\u003dO)c(O[C@H]4OC[C@@](O)(CO)[C@@H]4O)c(-c4ccc(O)cc4)oc3c2)[C@H](O)[C@H](O)[C@H]1O"
+}, {
+  "compound_chembl_id": "CHEMBL1929193",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "600000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "C[C@@H]1O[C@@H](Oc2cc(O)c3c(\u003dO)c(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)c(-c4ccc(O)cc4)oc3c2)[C@H](O)[C@H](O)[C@H]1O"
+}, {
+  "compound_chembl_id": "CHEMBL4467001",
+  "target_name": "DNA topoisomerase 2-alpha",
+  "standard_type": "IC50",
+  "standard_value": "716000.0",
+  "standard_units": "nM",
+  "standard_relation": "\u003d",
+  "confidence_score": "9",
+  "canonical_smiles": "NC(\u003dO)c1cccc(CSc2nc(SCc3ccccc3F)[nH]c(\u003dO)n2)c1"
+}]

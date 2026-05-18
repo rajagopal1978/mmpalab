@@ -1,0 +1,142 @@
+#modal-3d-parts {
+  align-items: flex-start;
+  overflow-y: auto;
+}
+
+.modal-3d-parts {
+  max-width: min(1440px, 96vw);
+  margin: 24px auto;
+}
+
+.parts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 18px;
+  align-items: start;
+}
+
+.part-card {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.part-card-header {
+  align-items: center;
+}
+
+.part-card-title,
+.part-card-transform,
+.part-card-smiles {
+  overflow-wrap: anywhere;
+}
+
+.part-viewer {
+  position: relative;
+  width: 100%;
+  min-height: 260px;
+  height: 260px;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.part-viewer canvas,
+.part-viewer > div,
+.part-viewer > svg {
+  max-width: 100%;
+}
+
+.part-rotate-btn {
+  flex-shrink: 0;
+}
+
+.viewer-error,
+.part-viewer-error,
+.parts-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 180px;
+  padding: 16px;
+  text-align: center;
+  color: var(--text-3);
+}
+
+@media (min-width: 1200px) {
+  .parts-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1199px) {
+  .parts-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 799px) {
+  .modal-3d-parts {
+    margin: 16px auto;
+    padding: 18px;
+  }
+
+  .parts-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .part-viewer {
+    min-height: 220px;
+    height: 220px;
+  }
+}
+
+/* ── Pagination bar ────────────────────────────────────── */
+.parts-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 20px 0 6px;
+  flex-wrap: wrap;
+  border-top: 1px solid rgba(255,255,255,0.07);
+  margin-top: 18px;
+}
+
+.parts-page-btn {
+  min-width: 90px;
+  padding: 8px 20px;
+  border-radius: 8px;
+  border: 1px solid rgba(99,102,241,0.40);
+  background: rgba(99,102,241,0.13);
+  color: #c7d2fe;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.18s, border-color 0.18s, opacity 0.18s;
+  white-space: nowrap;
+}
+
+.parts-page-btn:hover:not([disabled]) {
+  background: rgba(99,102,241,0.30);
+  border-color: rgba(99,102,241,0.80);
+  color: #fff;
+}
+
+.parts-page-btn[disabled] {
+  opacity: 0.30;
+  cursor: not-allowed;
+}
+
+.parts-page-info {
+  font-size: 0.82rem;
+  color: #94a3b8;
+  font-weight: 500;
+  white-space: nowrap;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.parts-page-info strong {
+  color: #c7d2fe;
+  font-weight: 700;
+}

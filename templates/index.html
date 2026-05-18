@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MMPA Analysis — Topoisomerase II-α SAR</title>
+  <meta name="description" content="Matched Molecular Pair Analysis tool for Topoisomerase II-alpha SAR data. Upload JSON, run scaffold analysis or MMP analysis, and explore 2D/3D molecule visualization." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/parts-viewer.css') }}" />
+</head>
+<body>
+
+<!-- ========= HEADER ========= -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="logo">
+      <svg class="logo-icon" viewBox="0 0 40 40" fill="none">
+        <circle cx="20" cy="20" r="18" stroke="url(#g1)" stroke-width="2.5"/>
+        <circle cx="20" cy="20" r="5" fill="url(#g1)"/>
+        <line x1="20" y1="2" x2="20" y2="12" stroke="url(#g1)" stroke-width="2" stroke-linecap="round"/>
+        <line x1="20" y1="28" x2="20" y2="38" stroke="url(#g1)" stroke-width="2" stroke-linecap="round"/>
+        <line x1="2" y1="20" x2="12" y2="20" stroke="url(#g1)" stroke-width="2" stroke-linecap="round"/>
+        <line x1="28" y1="20" x2="38" y2="20" stroke="url(#g1)" stroke-width="2" stroke-linecap="round"/>
+        <defs>
+          <linearGradient id="g1" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6366f1"/>
+            <stop offset="1" stop-color="#06b6d4"/>
+          </linearGradient>
+        </defs>
+      </svg>
+      <span>MMPA<strong>Lab</strong></span>
+    </div>
+    <nav class="header-nav">
+      <span class="nav-tag">DNA Topoisomerase II-α</span>
+      <span class="nav-tag nav-tag--accent">SAR Explorer</span>
+    </nav>
+  </div>
+</header>
+
+<!-- ========= HERO ========= -->
+<main>
+  <section class="hero">
+    <div class="hero-bg-orb orb1"></div>
+    <div class="hero-bg-orb orb2"></div>
+    <div class="container">
+      <h1 class="hero-title">
+        Matched Molecular Pair<br/>
+        <span class="gradient-text">Analysis Platform</span>
+      </h1>
+      <p class="hero-subtitle">
+        Upload your SAR JSON dataset and run advanced scaffold decomposition or full MMP analysis with interactive 2D/3D molecular visualization.
+      </p>
+    </div>
+  </section>
+
+  <!-- ========= UPLOAD CARD ========= -->
+  <section class="upload-section container">
+    <div class="glass-card upload-card" id="upload-card">
+      <div class="card-header">
+        <svg class="card-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/>
+          <polyline points="17 8 12 3 7 8"/>
+          <line x1="12" y1="3" x2="12" y2="15"/>
+        </svg>
+        <h2>Upload SAR Dataset</h2>
+      </div>
+
+      <div class="dropzone" id="dropzone">
+        <div class="dropzone-inner" id="dropzone-inner">
+          <svg viewBox="0 0 60 60" class="drop-icon" fill="none">
+            <rect width="60" height="60" rx="14" fill="rgba(99,102,241,0.12)"/>
+            <path d="M20 38V26a2 2 0 012-2h4l2-4h4l2 4h4a2 2 0 012 2v12a2 2 0 01-2 2H22a2 2 0 01-2-2z" stroke="#6366f1" stroke-width="1.8"/>
+            <path d="M30 26v8M27 29l3-3 3 3" stroke="#06b6d4" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+          <p class="drop-label">Drag &amp; drop your <code>.json</code> file here</p>
+          <p class="drop-sublabel">or click to browse</p>
+          <input type="file" id="file-input" accept=".json" hidden />
+          <button class="btn btn-outline" id="browse-btn" type="button">Browse File</button>
+        </div>
+        <div class="upload-progress" id="upload-progress" style="display:none;">
+          <div class="progress-ring-wrapper">
+            <svg class="progress-ring" viewBox="0 0 60 60">
+              <circle cx="30" cy="30" r="24" stroke="rgba(99,102,241,0.2)" stroke-width="4" fill="none"/>
+              <circle cx="30" cy="30" r="24" stroke="url(#pgr)" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="150.796" stroke-dashoffset="150.796" id="progress-circle"/>
+              <defs>
+                <linearGradient id="pgr" x1="0" y1="0" x2="60" y2="60" gradientUnits="userSpaceOnUse">
+                  <stop stop-color="#6366f1"/><stop offset="1" stop-color="#06b6d4"/>
+                </linearGradient>
+              </defs>
+            </svg>
+            <span class="progress-label">Processing…</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- File info bar -->
+      <div class="file-info-bar" id="file-info-bar" style="display:none;">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#22c55e" stroke-width="2" class="info-icon">
+          <polyline points="20 6 9 17 4 12"/>
+        </svg>
+        <span id="file-info-text"></span>
+        <span class="badge badge-green" id="entries-badge"></span>
+      </div>
+
+      <!-- Action buttons -->
+      <div class="action-row" id="action-row" style="display:none;">
+        <button class="btn btn-primary" id="btn-sar" type="button">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" class="btn-icon">
+            <circle cx="10" cy="10" r="8"/>
+            <line x1="10" y1="6" x2="10" y2="14"/><line x1="6" y1="10" x2="14" y2="10"/>
+          </svg>
+          SAR Split
+          <span class="btn-sublabel">Bemis-Murcko Scaffolds</span>
+        </button>
+        <div class="action-divider">or</div>
+        <button class="btn btn-secondary" id="btn-mmpa" type="button">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" class="btn-icon">
+            <path d="M4 4h5v5H4zM11 4h5v5h-5zM4 11h5v5H4zM11 11h5v5h-5z"/>
+          </svg>
+          MMP Analysis
+          <span class="btn-sublabel">Matched Molecular Pairs</span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========= LOADING SPINNER ========= -->
+  <div class="analysis-loading" id="analysis-loading" style="display:none;">
+    <div class="spinner-ring"></div>
+    <p id="loading-label">Running analysis…</p>
+  </div>
+
+  <!-- ========= RESULTS SECTION ========= -->
+  <section class="results-section container" id="results-section" style="display:none;">
+
+    <!-- Stats bar -->
+    <div class="stats-row" id="stats-row"></div>
+
+    <!-- Results table heading -->
+    <div class="results-heading">
+      <h2 id="results-title">Unique Scaffolds</h2>
+      <div class="search-box">
+        <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" class="search-icon">
+          <circle cx="8.5" cy="8.5" r="5.5"/><line x1="13" y1="13" x2="18" y2="18"/>
+        </svg>
+        <input type="text" id="search-input" placeholder="Filter by SMILES…" />
+      </div>
+    </div>
+
+    <!-- Scaffold / Core table -->
+    <div class="table-wrapper" id="table-wrapper">
+      <table class="mol-table" id="mol-table">
+        <thead id="mol-thead"></thead>
+        <tbody id="mol-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<!-- ========= 3D POPUP ========= -->
+<div class="modal-overlay" id="modal-3d" style="display:none;">
+  <div class="modal glass-card modal-3d">
+    <div class="modal-header">
+      <h3>3D Molecule Viewer</h3>
+      <div class="modal-controls">
+        <button class="view-btn active" data-style="stick" title="Stick">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="3" y1="10" x2="17" y2="10"/><circle cx="3" cy="10" r="2.5" fill="currentColor"/><circle cx="17" cy="10" r="2.5" fill="currentColor"/></svg>
+        </button>
+        <button class="view-btn" data-style="sphere" title="Sphere">
+          <svg viewBox="0 0 20 20" fill="currentColor"><circle cx="10" cy="10" r="7"/></svg>
+        </button>
+        <button class="view-btn" data-style="line" title="Line">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.2"><line x1="3" y1="10" x2="17" y2="10"/><circle cx="3" cy="10" r="1.5" fill="currentColor"/><circle cx="17" cy="10" r="1.5" fill="currentColor"/></svg>
+        </button>
+        <button class="view-btn" data-style="cross" title="Cross">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="4" y1="4" x2="16" y2="16"/><line x1="16" y1="4" x2="4" y2="16"/></svg>
+        </button>
+        <button class="view-btn" data-style="cartoon" title="Cartoon">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 14 Q10 4 16 14"/></svg>
+        </button>
+        <button class="view-btn" id="toggle-rotation" type="button" title="Stop rotation">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8">
+            <path d="M10 3a7 7 0 106.6 9"/>
+            <path d="M13 3h4v4"/>
+            <path d="M7 7v6"/>
+            <path d="M11 7v6"/>
+          </svg>
+        </button>
+      </div>
+      <button class="modal-close" id="close-3d">✕</button>
+    </div>
+    <div class="smiles-display" id="smiles-3d-display"></div>
+    <div id="viewer-3d" style="width:100%;height:420px;position:relative;border-radius:10px;overflow:hidden;"></div>
+    <div class="modal-footer">
+      <span class="mol-label">SMILES: </span>
+      <code class="mol-smiles-code" id="viewer-smiles-code"></code>
+    </div>
+  </div>
+</div>
+
+<!-- ========= 3D PARTS POPUP ========= -->
+<div class="modal-overlay" id="modal-3d-parts" style="display:none;">
+  <div class="modal glass-card modal-3d-parts">
+    <div class="modal-header">
+      <h3>3D Parts Viewer</h3>
+      <button class="modal-close" id="close-3d-parts">✕</button>
+    </div>
+    <div class="transforms-core-info" id="parts-core-info"></div>
+    <div class="parts-grid" id="parts-grid"></div>
+    <div class="parts-pagination" id="parts-pagination"></div>
+  </div>
+</div>
+
+<!-- ========= TRANSFORMATIONS POPUP ========= -->
+<div class="modal-overlay" id="modal-transforms" style="display:none;">
+  <div class="modal glass-card modal-transforms">
+    <div class="modal-header">
+      <h3>All Transformations</h3>
+      <button class="modal-close" id="close-transforms">✕</button>
+    </div>
+    <div class="transforms-core-info" id="transforms-core-info"></div>
+    <div class="table-wrapper">
+      <table class="mol-table transforms-table" id="transforms-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Transformation</th>
+            <th>Fragment Out (2D)</th>
+            <th>Fragment In (2D)</th>
+            <th>Cpd A</th>
+            <th>Cpd B</th>
+            <th>ΔActivity</th>
+            <th>ΔMW</th>
+          </tr>
+        </thead>
+        <tbody id="transforms-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- 3Dmol.js -->
+<script src="https://3Dmol.org/build/3Dmol-min.js"></script>
+<script type="module" src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
